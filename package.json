@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-concepts",
+  "version": "1.0.0",
+  "main": "/src/app.js",
+  "repository": "git@github.com:luizpaulolppa/nodejs-concepts.git",
+  "author": "Luiz Paulo Pilegi de Almeida <luizpilegilppa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "uuidv4": "^6.0.7"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0",
+    "nodemon": "^2.0.3",
+    "supertest": "^4.0.2"
+  }
+}
