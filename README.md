@@ -1,4 +1,4 @@
-# nodejs-concepts
+# Nodejs concepts
 
 ## Get NodeJS running
 Have NodeJS installed from https://nodejs.org/en/
